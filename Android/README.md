@@ -24,10 +24,10 @@
 
 ### 方式二：购买正式 Licence
 
-当您的测试 License 过期了，可以点击 [购买移动直播套餐](https://buy.cloud.tencent.com/mobilelive) ，可以免费获得一年有效的 License 使用权限。
+当您的测试 License 过期了，可以单击 [购买移动直播套餐](https://buy.cloud.tencent.com/mobilelive) ，可以免费获得一年有效的 License 使用权限。
 ![](https://main.qcloudimg.com/raw/52004efac93e7e6c8f446e53830816a3.png)
 
-> ! 购买“移动直播 SDK 套餐包”后，在 [移动直播 License](https://console.cloud.tencent.com/live/license) 页面下部会有 “一键切换普通版” 按钮。当点击切换的时候，会再次确认 Bundle ID 和 Package Name，如与提交到商店的不一致请进行修改，一旦切换成功，License信息不能再做修改
+> ! 购买“移动直播 SDK 套餐包”后，在 [移动直播 License](https://console.cloud.tencent.com/live/license) 页面下部会有 “一键切换普通版” 按钮。当单击切换的时候，会再次确认 Bundle ID 和 Package Name，如与提交到商店的不一致请进行修改，一旦切换成功，License信息不能再做修改
 
 ## 步骤二：填写 Licence 信息到 App 中
 
